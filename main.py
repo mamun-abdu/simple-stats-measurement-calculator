@@ -1,5 +1,3 @@
-import math
-
 def calculate_measurements():
     print("--- Standard Measurement & Statistics Calculator ---")
     # Sample dataset
